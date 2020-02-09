@@ -34,7 +34,7 @@ Implementation Notes
 **Hardware:**
 
 .. todo:: Add links to any specific hardware product page(s), or category page(s). Use unordered list & hyperlink rST
-   inline format: "* `Link Text <url>`_"
+#   inline format: "* `Link Text <url>`_"
 
 **Software and Dependencies:**
 

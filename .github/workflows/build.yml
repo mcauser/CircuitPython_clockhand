@@ -41,6 +41,6 @@ jobs:
       run: git describe --dirty --always --tags
     - name: Build assets
       run: circuitpython-build-bundles --filename_prefix ${{ steps.repo-name.outputs.repo-name }} --library_location .
-    - name: Build docs
-      working-directory: docs
-      run: sphinx-build -E -W -b html . _build/html
+#    - name: Build docs
+#      working-directory: docs
+#      run: sphinx-build -E -W -b html . _build/html
