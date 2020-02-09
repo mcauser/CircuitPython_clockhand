@@ -17,7 +17,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='adafruit-circuitpython-circuitpython-clockhand',
+    name='circuitpython-clockhand',
 
     use_scm_version=True,
     setup_requires=['setuptools_scm'],
@@ -27,7 +27,7 @@ setup(
     long_description_content_type='text/x-rst',
 
     # The project's main homepage.
-    url='https://github.com/adafruit/Adafruit_CircuitPython_CircuitPython_clockhand',
+    url='https://github.com/nelsonov/CircuitPython_clockhand',
 
     # Author details
     author='Adafruit Industries',

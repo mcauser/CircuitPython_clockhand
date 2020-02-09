@@ -1,16 +1,16 @@
 Introduction
 ============
 
-.. image:: https://readthedocs.org/projects/circuitpython-circuitpython_clockhand/badge/?version=latest
-    :target: https://circuitpython-circuitpython_clockhand.readthedocs.io/
+.. image:: https://readthedocs.org/projects/circuitpython_clockhand/badge/?version=latest
+    :target: https://circuitpython_clockhand.readthedocs.io/
     :alt: Documentation Status
 
 .. image:: https://img.shields.io/discord/327254708534116352.svg
     :target: https://discord.gg/nBQh6qu
     :alt: Discord
 
-.. image:: https://github.com/nelsonov/CircuitPython_CircuitPython_clockhand/workflows/Build%20CI/badge.svg
-    :target: https://github.com/nelsonov/CircuitPython_CircuitPython_clockhand/actions
+.. image:: https://github.com/nelsonov/CircuitPython_clockhand/workflows/Build%20CI/badge.svg
+    :target: https://github.com/nelsonov/CircuitPython_clockhand/actions
     :alt: Build Status
 
 Utility to move analog clock hour hand with servo
@@ -35,7 +35,7 @@ Installing from PyPI
    If the library is not planned for PyPI, remove the entire 'Installing from PyPI' section.
 
 On supported GNU/Linux systems like the Raspberry Pi, you can install the driver locally `from
-PyPI <https://pypi.org/project/adafruit-circuitpython-circuitpython_clockhand/>`_. To install for current user:
+PyPI <https://pypi.org/project/circuitpython_clockhand/>`_. To install for current user:
 
 .. code-block:: shell
 
@@ -65,7 +65,7 @@ Contributing
 ============
 
 Contributions are welcome! Please read our `Code of Conduct
-<https://github.com/nelsonov/CircuitPython_CircuitPython_clockhand/blob/master/CODE_OF_CONDUCT.md>`_
+<https://github.com/nelsonov/CircuitPython_clockhand/blob/master/CODE_OF_CONDUCT.md>`_
 before contributing to help this project stay welcoming.
 
 Documentation
